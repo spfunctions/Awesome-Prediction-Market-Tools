@@ -13,8 +13,7 @@ Pull requests welcome — add your tool or improve the list!
 
 **[Oddpool](https://www.oddpool.com)** — _The Bloomberg for prediction markets._
 
-Oddpool aggregates live cross-venue odds, spreads, arbitrage opportunities, historical price data, market depth, economic indicators, and analytics across Polymarket, Kalshi, CME, and more.  
-Perfect for traders, researchers, and quants who want a unified prediction-market data layer.
+Oddpool aggregates cross-venue prediction market data across platforms like Polymarket and Kalshi, including live odds, spreads, liquidity, orderbook depth, arbitrage opportunities, and historical market data. It provides real-time feeds, analytics dashboards, and institutional-grade datasets for traders, quants, and researchers building strategies or analyzing prediction-market microstructure.
 
 👉 **Check out the live dashboards:**  
 **https://www.oddpool.com**
