@@ -144,6 +144,8 @@ Oddpool aggregates cross-venue prediction market data across platforms like Poly
 - [future fun](https://www.future.fun/?utm_source=polymark.et) — AION-powered prediction market terminal featuring the Scouter analytics tool with proprietary Edge Score rankings for Polymarket traders.
 - [Markium](https://markiumpro.com/?utm_source=polymark.et) — Comprehensive data analytics and trading platform for prediction markets that provides market aggregation, wallet analytics, leaderboards, and watchlist alerts across Polymarket and other prediction market platforms.
 - [PolyVision](https://polyvisionx.com) — Polymarket wallet analyzer providing copy trading scores (1-10), P&L analysis, risk metrics (Sharpe ratio, max drawdown), red flag detection, and market category breakdowns via Telegram bot, REST API, and MCP server for AI agents.
+- [pm.wiki](https://pm.wiki/?utm_source=polymark.et) — Independent prediction market directory and comparison tool with 350+ project profiles, covering exchanges, analytics tools, and ecosystem projects across the prediction market landscape.
+- [Polyguana](https://polyguana.com/?utm_source=polymark.et) — Independent Polymarket analytics platform featuring trader leaderboards, market statistics, and performance tracking for data-driven prediction market insights.
 
 ## 🔹 Arbitrage tools
 
