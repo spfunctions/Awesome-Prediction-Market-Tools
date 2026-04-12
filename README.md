@@ -2,21 +2,10 @@
 
 [![Awesome](https://awesome.re/badge-flat.svg)](https://awesome.re)
 
-> The most complete, community-maintained directory of prediction market tools — analytics platforms, trading bots, dashboards, APIs, data feeds, alert systems, educational resources, and more.  
+> The most complete, actively maintained directory of prediction market tools — analytics platforms, trading bots, dashboards, APIs, data feeds, alert systems, educational resources, and more.  
 > Covering Polymarket, Kalshi, Manifold, Hyperliquid, and the wider forecasting ecosystem.
 
-Pull requests welcome — add your tool or improve the list!
-
----
-
-## ⭐ Featured: Oddpool
-
-**[Oddpool](https://www.oddpool.com)** — _The Bloomberg for prediction markets._
-
-Oddpool aggregates cross-venue prediction market data across platforms like Polymarket and Kalshi, including live odds, spreads, liquidity, orderbook depth, arbitrage opportunities, and historical market data. It provides real-time feeds, analytics dashboards, and institutional-grade datasets for traders, quants, and researchers building strategies or analyzing prediction-market microstructure.
-
-👉 **Check out the live dashboards:**  
-**https://www.oddpool.com**
+Pull requests welcome — add your tool or improve the list. PRs are reviewed within 48 hours.
 
 ---
 
@@ -76,6 +65,8 @@ Oddpool aggregates cross-venue prediction market data across platforms like Poly
 - [Predly](https://predly.ai/?utm_source=polymark.et) — AI-powered prediction market analytics platform that identifies profitable opportunities on Polymarket and Kalshi by detecting mispricings between market prices and AI-calculated probabilities with 89% alert accuracy.
 - [PolyClaw](https://github.com/chainstacklabs/polyclaw) — OpenClaw skill for Polymarket trading with order execution and LLM-powered hedge discovery via contrapositive logic (arbitrage).
 - [Baozi MCP Server](https://www.npmjs.com/package/@baozi.bet/mcp-server) — Open-source MCP server with 68 tools enabling AI agents to discover, bet on, and manage Solana prediction markets on [Baozi.bet](https://baozi.bet), featuring an AI oracle (Grandma Mei) for automated market resolution with on-chain proofs and tiered verification.
+- [SimpleFunctions](https://simplefunctions.dev) — Agentic runtime for prediction markets. Decomposes macro theses into causal trees, scans Kalshi + Polymarket for mispriced contracts, and monitors 24/7 with autonomous evaluation. [MCP server](https://simplefunctions.dev/docs/mcp) (25 tools), [REST API](https://simplefunctions.dev/docs), [CLI](https://github.com/spfunctions/simplefunctions-cli) (42 commands), and Telegram bot.
+- [Polymarket Trader MCP](https://github.com/demwick/polymarket-trader-mcp) — 48-tool MCP server for AI-powered Polymarket trading. Market discovery, copy trading, smart money flow detection, backtesting, arbitrage scanning, risk management, and portfolio optimization. Works with Claude Code, Cursor, or any MCP-compatible AI client.
 
 ## 🧩 APIs
 
@@ -85,6 +76,9 @@ Oddpool aggregates cross-venue prediction market data across platforms like Poly
 - [PolyRouter](https://polyrouter.io?utm_source=polymark.et) — Unified API service that provides normalized prediction market data from Kalshi, Polymarket, Limitless, and other platforms through a single API key and standardized interface.
 - [PMXT](https://github.com/qoery-com/pmxt) - An open-source API for accessing prediction market data across multiple exchanges.
 - [pykalshi](https://github.com/ArshKA/kalshi-client) — Feature-rich Python client for Kalshi prediction markets with WebSocket streaming, automatic retries, rate limiting, pandas integration, Jupyter rendering, and local orderbook management.
+- [Parsec](https://parsecapi.com) — HFT-focused, developer-first prediction market infrastructure for normalized market data, execution, and live streams across major venues. Generous free tier.
+- [Adanos Market Sentiment API](https://api.adanos.org/docs/) — Polymarket sentiment API for stock and ETF tickers, providing buzz scores, trend signals, bullish/bearish sentiment, and compare endpoints for dashboards and trading tools.
+- [Meridian Edge](https://meridianedge.io) — Aggregated prediction market consensus data platform. Real-time consensus probabilities from multiple regulated prediction markets via REST API, Python SDK (`pip install meridianedge`), and [MCP server](https://github.com/meridian-edge/meridian-edge-mcp) for AI agents. Free tier: 100 API calls/day.
 
 ## 🔹 Aggregator
 
@@ -94,6 +88,7 @@ Oddpool aggregates cross-venue prediction market data across platforms like Poly
 - [trade.fun](https://trade.fun/?utm_source=polymark.et) — Comprehensive multi-asset trading platform integrating Polymarket prediction markets, Solana memecoins, perpetuals with up to 40x leverage, and yield farming in one customizable interface, featuring zero gas fees, and MEV protection.
 - [TradeFox](https://thetradefox.com?utm_source=polymark.et) — Professional prediction market aggregator and prime brokerage platform backed by Alliance DAO and CMT Digital, featuring advanced order execution, self-custodial trading, and institutional-grade tools across multiple prediction markets.
 - [OkayBet](https://www.okaybet.app/?utm_source=polymark.et) — Prediction market infrastructure platform that builds applications on top of prediction markets, featuring AI trading agents, market aggregation, and parlay betting across multiple platforms.
+- [Oddpool](https://www.oddpool.com) — Cross-venue prediction market data aggregator covering live odds, spreads, liquidity, orderbook depth, arbitrage opportunities, and historical data across Polymarket and Kalshi.
 
 ## 🔔 Alerts
 
@@ -106,6 +101,7 @@ Oddpool aggregates cross-venue prediction market data across platforms like Poly
 - [Whale Tracker Livid](https://whale-tracker-livid.vercel.app/?utm_source=polymark.et) — Polymarket whale monitoring platform tracking high-value traders with $50,000+ portfolios , featuring tiered alert systems with free 1-hour delayed notifications and Pro real-time alerts ($29/month) for whale trades exceeding $1,000+ position changes, big bet signals at 2x+ average sizing, and performance-ranked leaderboards revealing smart money movements before market shifts.​
 - [PolySpy](https://t.me/PolySpy_bot?utm_source=polymark.et) — Telegram bot delivering instant notifications for new Polymarket markets with granular category filtering across Politics, Sports, Crypto, Finance, Tech, Culture, Geopolitics, and Events, plus subcategory selection and ignored tags management for spam-free, customized alert delivery enabling early market discovery and trading advantages.
 - [PolyIntel](https://t.me/PolyIntel_bot?utm_source=polymark.et) — Real-time Telegram bot service detecting whale movements and insider trading activity on Polymarket, featuring automated alerts every 10 minutes with comprehensive scoring systems, portfolio tracking, and probability analysis for suspicious trades.
+- [ScoreEdge](https://scoreedge.app) — Real-time sports alerts for Kalshi and Polymarket traders. Set rules on score changes, lead flips, and play-by-play events — get notified via Telegram or email the moment something happens, before markets reprice.
 - [Polytrackerbot](https://x.com/polytrackerbot?utm_source=polymark.et) — Automated Twitter bot tracking high-conviction Polymarket whale and most profitable wallet activities, with focused filtering excluding sports betting and emphasizing buy-side positions, developed by @alfiethecrypto for insider trading signal detection.
 - [PolyCopy](#) — Real-time Polymarket trader tracking bot for Telegram that monitors trading activity, portfolios, and performance insights without requiring wallet connections or private keys.
 - [YN Signals](https://t.me/YNSignals?utm_source=polymark.et) — 24/7 prediction market alpha signal aggregator that monitors Polymarket, Kalshi, and Limitless Markets to provide timely alerts on new market creation, odds anomalies, large transactions, and insider wallet activities via Telegram.
@@ -147,6 +143,13 @@ Oddpool aggregates cross-venue prediction market data across platforms like Poly
 - [PolyVision](https://polyvisionx.com) — Polymarket wallet analyzer providing copy trading scores (1-10), P&L analysis, risk metrics (Sharpe ratio, max drawdown), red flag detection, and market category breakdowns via Telegram bot, REST API, and MCP server for AI agents.
 - [pm.wiki](https://pm.wiki/?utm_source=polymark.et) — Independent prediction market directory and comparison tool with 350+ project profiles, covering exchanges, analytics tools, and ecosystem projects across the prediction market landscape.
 - [Polyguana](https://polyguana.com/?utm_source=polymark.et) — Independent Polymarket analytics platform featuring trader leaderboards, market statistics, and performance tracking for data-driven prediction market insights.
+- [EdgedUp](https://edgedup.app) — Quantitative simulation engine for prediction market traders, offering Monte Carlo pricing (50,000 paths), real-time Bayesian particle filters, copula-based cross-market correlation modeling, and portfolio-level risk management for Polymarket and Kalshi.
+- [Signal](https://pmse.netlify.app) — Free daily dashboard that aggregates financially relevant Polymarket and Kalshi markets, maps them to equity tickers (ETFs and individual stocks), and ranks by composite signal strength using sustained price, liquidity, and cross-platform consensus.
+- [Octagon AI](https://octagonai.co) — Intelligence layer for prediction markets delivering deep research reports with model forecasts and fully cited sources.
+- [Polydata](https://polydata.pro) — Free real-time analytics terminal for Polymarket. Smart Score trader ratings with ML bot detection, crypto chart engine with Binance feed, weather analytics for 38 cities across 3 forecast sources, and full trade-level depth — no signup required.
+- [Struct](https://www.struct.to) — Historical and real-time data for every event, market, position, trader, and more on Polymarket via REST, websockets, and webhooks. Built for agents, traders, and developers.
+- [PolymarketAlertsBot](https://github.com/structbuild/polymarket-telegram-alerts-bot) — Open-source Telegram bot for monitoring Polymarket markets and wallets, featuring probability spike detection, price movement tracking, and trader activity alerts with configurable thresholds.
+- [Polymarket Explorer](https://github.com/structbuild/polymarket-explorer) — Open-source real-time analytics dashboard for Polymarket traders to search any trader and get a full breakdown of their PnL history, positions, activity, and performance metrics.
 
 ## 🔹 Arbitrage tools
 
@@ -156,6 +159,10 @@ Oddpool aggregates cross-venue prediction market data across platforms like Poly
 - [PolyScalping](https://polyscalping.org/?utm_source=polymark.et) — Real-time analytical platform for detecting arbitrage and scalping opportunities across all Polymarket markets, featuring automated market scanning every 60 seconds, Telegram alerts, ROI calculations, and advanced filtering by spread, volume, liquidity, and market categories for maximizing trading profits.
 - [Polymarket JB Bot](https://t.me/polymarket_jb_bot?utm_source=polymark.et) — Open-source Telegram bot providing automated Polymarket arbitrage alerts, order book depth analysis, and market closing scanner with three-tier signal filtering, automatic translation, and one-click trading integration built by @123olp and freely deployed for community use.
 - [Prediction Hunt](https://predictionhunt.com/?utm_source=polymark.et) — Comprehensive prediction market aggregation platform providing real-time cross-exchange comparison, arbitrage detection, and smart matching across Kalshi, Polymarket, and PredictIt with data refreshed every five minutes to help users make data-driven decisions and spot market inefficiencies.​​
+- [Polymarket Scanner](https://github.com/vesper-astrena/polymarket-scanner) — Open-source Python tool that scans 10,000+ Polymarket markets for mispricings, detecting exclusive outcome deviations, ladder contradictions, and cross-market logical inconsistencies using the public Gamma API.
+- [Polymarket Scanner API](https://github.com/vesper-astrena/polymarket-scanner-api) — Hosted REST API for real-time arbitrage detection across 10,000+ Polymarket markets, with free tier and filtering by profit % and liquidity.
+- [Polymarket Odds Scanner](https://github.com/LuciferForge/polymarket-odds-scanner) — Open-source sports odds scanner that finds mispriced Polymarket markets by comparing against real sportsbook odds from ESPN, SharpAPI, and The Odds API. Covers 12 leagues (NBA, NHL, MLB, EPL, etc.) with signal tracking and full P&L.
+- [Claw Arbs](https://clawarbs.com) — Automated cross-venue arbitrage system that detects and executes both legs across Kalshi, Polymarket, and sharp sportsbooks like Pinnacle in real time, with limit orders, custom strategies, and a 14-step risk pipeline.
 
 ## 📈 Dashboards
 
@@ -178,6 +185,9 @@ Oddpool aggregates cross-venue prediction market data across platforms like Poly
 - [alexmccullough](https://dune.com/alexmccullough/how-accurate-is-polymarket#a-few-things-immediately-stand-out?utm_source=polymark.et) — Dune dashboard analyzing Polymarket’s prediction accuracy, bias, and outcome distributions across different timeframes and price buckets.
 - [TREMOR](https://www.tremor.live/?utm_source=polymark.et) — Comprehensive data terminal for Polymarket and Kalshi prediction markets featuring SQL analytics, AI assistant, and real-time market intelligence across 140K+ active markets with sub-second query performance.
 - [Goldsky](https://goldsky.com/?utm_source=polymark.et) — Blockchain data infrastructure powering Polymarket's real-time prediction market data processing and onchain-offchain integration.
+- [Telonex](https://telonex.io) — Prediction market data platform providing tick-level historical trades, quotes, orderbooks, and on-chain fills via REST API and Python SDK.
+- [ClearMarket](https://github.com/JDSource/clearmarket) — Structured intelligence layer for prediction markets. Adds parsed resolution logic, catalyst calendars, cross-platform structural mapping, and related market links to raw Polymarket and Kalshi data.
+- [Probalytics](https://probalytics.io) — Prediction market data infrastructure for Polymarket and Kalshi. REST API with unified schema, ClickHouse SQL access, and 200–500M orderbook updates/day at 1ms resolution. Parquet/S3 bulk exports.
 
 ## 💸 DeFi
 
@@ -193,6 +203,7 @@ Oddpool aggregates cross-venue prediction market data across platforms like Poly
 - [PolyNoob](https://polynoob.com/?utm_source=polymark.et) — Beginner-friendly encyclopedia and guide for navigating Polymarket prediction markets with strategies, trader insights, and educational content.
 - [The Oracle by Polymarket](https://news.polymarket.com/?utm_source=polymark.et) — Newsletter and podcast offering news, insights, and analysis from the world’s largest prediction market.
 - [PolymarketGuide](https://polymarketguide.gitbook.io/?utm_source=polymark.et) — Independent knowledge base explaining Polymarket resolution, precedents, and case studies for traders and oracle participants.
+- [LearnAI — Polymarket AI Tutor](https://www.uselearnai.com/chat?topic=Polymarket) — Conversational AI course on Polymarket: how prediction markets work, trading mechanics, probability calibration, and strategy. Interactive and personalized.
 
 ## 🔹 Extensions
 
@@ -208,6 +219,12 @@ Oddpool aggregates cross-venue prediction market data across platforms like Poly
 - [Compose](https://compose.build?utm_source=polymark.et) — Offchain-to-onchain orchestration framework enabling developers to build hybrid blockchain applications 95% faster with TypeScript and automated workflow management.
 - [Baozi.bet](https://baozi.bet) — Decentralized pari-mutuel prediction market protocol on Solana with boolean and race (multi-outcome) markets, an open-source [MCP server](https://github.com/bolivian-peru/baozi-mcp) for AI agent integration, affiliate system, creator profiles, and $BAOZI token revenue sharing for stakers.
 - [OrderbookTrade](https://www.orderbook.trade) - High performance CLOB based Matching Engine and On-Chain Settlement for Prediction Markets, start your prediction market in 1-click with OrderbookTrade.
+- [Settled](https://www.settled.pro) — Prediction market platform for crypto perpetual futures funding rates on Solana. Binary YES/NO markets on whether the next funding rate will be positive, covering 2,400+ pairs across Binance, Bybit, Hyperliquid, KuCoin, and Gate. Markets auto-resolve every 1–8 hours.
+- [Polymarket Settlement Bot](https://github.com/LuciferForge/polymarket-settlement-bot) — Automatically redeems resolved Polymarket positions back to USDC via on-chain Gnosis Safe transactions.
+- [FlipCoin MCP](https://github.com/flipcoin-fun/flipcoin-mcp) — MCP server for Claude agents to browse, trade, and create prediction markets on Base with verifiable on-chain track records.
+- [FlipCoin ElizaOS Plugin](https://github.com/flipcoin-fun/eliza-plugin-flipcoin) — ElizaOS plugin for autonomous prediction market trading on Base; supports LMSR and CLOB execution with delegated session keys.
+- [FlipCoin LangChain](https://github.com/flipcoin-fun/flipcoin-langchain) — LangChain tools wrapping the FlipCoin Agent API for Python-based prediction market agents. PyPI: `flipcoin-langchain`.
+- [FlipCoin OpenClaw](https://github.com/flipcoin-fun/flipcoin-openclaw-skill) — OpenClaw skill for Telegram/WhatsApp prediction market trading on Base.
 
 ## 📰 News
 
@@ -277,3 +294,4 @@ Oddpool aggregates cross-venue prediction market data across platforms like Poly
 - [Sharpe Terminal](https://beta.sharpeterminal.com/?utm_source=polymark.et) — Professional-grade trading terminal for prediction markets featuring advanced orders, comprehensive monitoring, and Bloomberg interface with integrated Polymarket social feeds and user analytics. Built by traders for traders, currently in public beta.
 - [Polylayer](https://polylayer.xyz?utm_source=polymark.et) — Comprehensive Layer 2 prediction finance ecosystem built on Polymarket featuring advanced trading terminals, leveraged trading, yield generation, automated strategies, and institutional-grade derivatives infrastructure.
 - [Betly](https://www.betly.trade/?utm_source=polymark.et) — Mobile-first prediction market interface that simplifies Polymarket and Kalshi trading through intuitive swipe gestures, combining social betting with Tinder-like user experience.
+- [Weather Edge](https://stewyboy1990.github.io/weather-edge/) — AI-powered Kalshi weather trading signals using 82-member multi-model ensemble (GFS + ECMWF) with NWS bias correction. Covers temperature threshold and bracket markets across 14 US cities with Kelly criterion sizing.
