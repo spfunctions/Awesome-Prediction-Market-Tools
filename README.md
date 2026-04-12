@@ -203,6 +203,7 @@ Pull requests welcome — add your tool or improve the list. PRs are reviewed wi
 - [PolyNoob](https://polynoob.com/?utm_source=polymark.et) — Beginner-friendly encyclopedia and guide for navigating Polymarket prediction markets with strategies, trader insights, and educational content.
 - [The Oracle by Polymarket](https://news.polymarket.com/?utm_source=polymark.et) — Newsletter and podcast offering news, insights, and analysis from the world’s largest prediction market.
 - [PolymarketGuide](https://polymarketguide.gitbook.io/?utm_source=polymark.et) — Independent knowledge base explaining Polymarket resolution, precedents, and case studies for traders and oracle participants.
+- [LearnAI — Polymarket AI Tutor](https://www.uselearnai.com/chat?topic=Polymarket) — Conversational AI course on Polymarket: how prediction markets work, trading mechanics, probability calibration, and strategy. Interactive and personalized.
 
 ## 🔹 Extensions
 
