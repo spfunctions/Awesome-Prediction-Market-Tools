@@ -298,3 +298,19 @@ Pull requests welcome — add your tool or improve the list. PRs are reviewed wi
 - [Polylayer](https://polylayer.xyz?utm_source=polymark.et) — Comprehensive Layer 2 prediction finance ecosystem built on Polymarket featuring advanced trading terminals, leveraged trading, yield generation, automated strategies, and institutional-grade derivatives infrastructure.
 - [Betly](https://www.betly.trade/?utm_source=polymark.et) — Mobile-first prediction market interface that simplifies Polymarket and Kalshi trading through intuitive swipe gestures, combining social betting with Tinder-like user experience.
 - [Weather Edge](https://stewyboy1990.github.io/weather-edge/) — AI-powered Kalshi weather trading signals using 82-member multi-model ensemble (GFS + ECMWF) with NWS bias correction. Covers temperature threshold and bracket markets across 14 US cities with Kelly criterion sizing.
+
+---
+
+## Contributing
+
+Add your tool or improve the list — PRs are reviewed within 48 hours.
+
+1. Fork this repo
+2. Add your tool to the appropriate section (one line, same format as existing entries)
+3. Submit a pull request
+
+Please keep entries concise. One tool per PR.
+
+---
+
+Maintained by [SimpleFunctions](https://simplefunctions.dev) — calibrated world models for AI agents.
