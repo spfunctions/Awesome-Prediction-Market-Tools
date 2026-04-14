@@ -67,6 +67,7 @@ Pull requests welcome — add your tool or improve the list. PRs are reviewed wi
 - [Baozi MCP Server](https://www.npmjs.com/package/@baozi.bet/mcp-server) — Open-source MCP server with 68 tools enabling AI agents to discover, bet on, and manage Solana prediction markets on [Baozi.bet](https://baozi.bet), featuring an AI oracle (Grandma Mei) for automated market resolution with on-chain proofs and tiered verification.
 - [SimpleFunctions](https://simplefunctions.dev) — Agentic runtime for prediction markets. Decomposes macro theses into causal trees, scans Kalshi + Polymarket for mispriced contracts, and monitors 24/7 with autonomous evaluation. [MCP server](https://simplefunctions.dev/docs/mcp) (25 tools), [REST API](https://simplefunctions.dev/docs), [CLI](https://github.com/spfunctions/simplefunctions-cli) (42 commands), and Telegram bot.
 - [Polymarket Trader MCP](https://github.com/demwick/polymarket-trader-mcp) — 48-tool MCP server for AI-powered Polymarket trading. Market discovery, copy trading, smart money flow detection, backtesting, arbitrage scanning, risk management, and portfolio optimization. Works with Claude Code, Cursor, or any MCP-compatible AI client.
+- [TBD](https://www.tbd.vote) — Solana-based prediction market for human opinions with an agent [CLI](https://github.com/ego-protocol/tbd-vote-cli) (`@tbd-vote/cli`) and [AGENTS.md](https://www.tbd.vote/agents/AGENTS.md) spec letting AI agents authenticate, list opinion campaigns, and place bets via JSON-friendly commands.
 
 ## 🧩 APIs
 
