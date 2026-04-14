@@ -106,6 +106,8 @@ Pull requests welcome — add your tool or improve the list. PRs are reviewed wi
 - [PolyCopy](#) — Real-time Polymarket trader tracking bot for Telegram that monitors trading activity, portfolios, and performance insights without requiring wallet connections or private keys.
 - [YN Signals](https://t.me/YNSignals?utm_source=polymark.et) — 24/7 prediction market alpha signal aggregator that monitors Polymarket, Kalshi, and Limitless Markets to provide timely alerts on new market creation, odds anomalies, large transactions, and insider wallet activities via Telegram.
 
+- [PolyMind](https://polyminds.netlify.app/) — Real-time Polymarket trading alerts with multi-AI analysis (Groq, Claude, Gemini), delivering instant notifications on market movements, probability shifts, and whale activity with customizable alert thresholds and cross-model consensus scoring.
+
 ## 📊 Analytics Tools
 
 - [Polymarket Analytics](https://polymarketanalytics.com/?utm_source=polymark.et) — Global analytics platform providing comprehensive data on Polymarket traders, markets, positions, and trades.
