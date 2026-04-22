@@ -297,6 +297,7 @@ Pull requests welcome — add your tool or improve the list. PRs are reviewed wi
 - [Sharpe Terminal](https://beta.sharpeterminal.com/?utm_source=polymark.et) — Professional-grade trading terminal for prediction markets featuring advanced orders, comprehensive monitoring, and Bloomberg interface with integrated Polymarket social feeds and user analytics. Built by traders for traders, currently in public beta.
 - [Polylayer](https://polylayer.xyz?utm_source=polymark.et) — Comprehensive Layer 2 prediction finance ecosystem built on Polymarket featuring advanced trading terminals, leveraged trading, yield generation, automated strategies, and institutional-grade derivatives infrastructure.
 - [Betly](https://www.betly.trade/?utm_source=polymark.et) — Mobile-first prediction market interface that simplifies Polymarket and Kalshi trading through intuitive swipe gestures, combining social betting with Tinder-like user experience.
+- [TurbineFi](https://turbinefi.com) — Automated trading platform for prediction markets that turns plain-English strategy descriptions into executable, inspectable trading logic with built-in backtesting against 30 days of Kalshi orderbook data (Sharpe, win rate, max drawdown) and 24/7 self-hosted cloud deployment via Locus (YC F25). 
 - [Weather Edge](https://stewyboy1990.github.io/weather-edge/) — AI-powered Kalshi weather trading signals using 82-member multi-model ensemble (GFS + ECMWF) with NWS bias correction. Covers temperature threshold and bracket markets across 14 US cities with Kelly criterion sizing.
 
 ---
