@@ -300,6 +300,8 @@ Pull requests welcome — add your tool or improve the list. PRs are reviewed wi
 - [TurbineFi](https://turbinefi.com) — Automated trading platform for prediction markets that turns plain-English strategy descriptions into executable, inspectable trading logic with built-in backtesting against 30 days of Kalshi orderbook data (Sharpe, win rate, max drawdown) and 24/7 self-hosted cloud deployment via Locus (YC F25). 
 - [Weather Edge](https://stewyboy1990.github.io/weather-edge/) — AI-powered Kalshi weather trading signals using 82-member multi-model ensemble (GFS + ECMWF) with NWS bias correction. Covers temperature threshold and bracket markets across 14 US cities with Kelly criterion sizing.
 
+---
+
 ## Contributing
 
 Add your tool or improve the list — PRs are reviewed within 48 hours.
@@ -309,5 +311,7 @@ Add your tool or improve the list — PRs are reviewed within 48 hours.
 3. Submit a pull request
 
 Please keep entries concise. One tool per PR.
+
+---
 
 Maintained by [SimpleFunctions](https://simplefunctions.dev) — calibrated world models for AI agents.
